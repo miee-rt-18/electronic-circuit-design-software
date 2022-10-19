@@ -1,2 +1,4 @@
 # electronic-circuit-design-software
-A.
+
+Wiki:
+https://github.com/lazbaphilipp/electronic-circuit-design-software/wiki
