@@ -1,6 +1,7 @@
 function result = s2pImport(filename)
 
 % spFile - это матрица S параметров вида 
+
 % частота S11 S21 S12 S22
 
 freqs = spFile(:,1);
